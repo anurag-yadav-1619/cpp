@@ -21,4 +21,5 @@ int main(){
     cout<<amx<<endl; 
     
     return 0;
-}    
+}   
+
